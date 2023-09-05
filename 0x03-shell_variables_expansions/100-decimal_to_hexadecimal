@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obese=16,$DECIMAL" | bc
+printf '%X\n' $DECIMAL
