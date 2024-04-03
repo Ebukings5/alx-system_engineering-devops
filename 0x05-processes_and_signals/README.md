@@ -1,1 +1,0 @@
-A readme file for 0x05-process_and_signals
