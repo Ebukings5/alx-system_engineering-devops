@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # write a script that creates a domain name
 
-echo "example.tech"
+echo "ebukings.tech"
