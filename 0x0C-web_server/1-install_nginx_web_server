@@ -10,5 +10,5 @@ apt-get update
 # installs the Nginx web server.
 apt-get install -y nginx
 #  sets the content of the index.html file to "Hello World!" using the echo command
-echo "Hello World!" > /var/www/html/index.html
+echo "Hello World!" | sudo tee /var/www/html/index.html
 service nginx start
